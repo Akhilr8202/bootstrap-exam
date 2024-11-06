@@ -1,0 +1,39 @@
+#banner_container{
+    background: no-repeat;
+    padding: 0px;
+    width: 100%;
+}
+.carousel{
+    position: absolute;
+    margin-top: -476px;
+    margin-left: 465px;
+
+}
+
+#btn{
+    border: 1px solid black;
+    color: orange;
+}
+#para{
+    color: orange;
+}
+#para1{
+    font-size: 30px;
+}
+#class2{
+    font-size: 30px;
+    margin-left:-500px;
+}
+#img2{
+   
+ width: 670px;
+ margin-left: 95px;
+}
+#para3{
+    margin-left: 103px;
+}
+
+#img5{
+    height: 150px;
+
+}
